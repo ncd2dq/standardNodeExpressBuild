@@ -1,9 +1,8 @@
 # My basic app
 
 ## src/
-<br>
-* views -> html5 view templates
 
+* views -> html5 view templates
 * migrations -> up/down functions for altering models or moving data
 * models -> ORM table designations
 * seeders -> fill tables with test data
